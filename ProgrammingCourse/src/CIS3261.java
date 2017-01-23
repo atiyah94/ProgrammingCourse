@@ -1,5 +1,3 @@
-
-
 public class CIS3261 {
 
 	public static void main(String[] args) {
